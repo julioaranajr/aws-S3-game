@@ -1,4 +1,4 @@
-# AWS-S3-GAME
+# aws-S3-game-challenge
 If you work with AWS then you work with Amazon S3. 
 
 Who wants to know Amazon S3 well is a great quest game:  
